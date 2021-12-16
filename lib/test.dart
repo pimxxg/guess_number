@@ -4,7 +4,7 @@ import 'dart:math';
 
 void main() {
   var r = Random();
-  var ans = r.nextInt(5);
+  var ans = r.nextInt(100);
   var count = 0;
 
   for (;;) {
